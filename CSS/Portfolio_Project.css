@@ -54,10 +54,6 @@ p {
     padding-right: 20px;
 }
 
-p:hover {
-    transition: transform 1s; 
-}
-
 .center {
     text-align: center; 
 }
