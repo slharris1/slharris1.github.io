@@ -58,11 +58,6 @@ p {
     text-align: center; 
 }
 
-.center:hover {
-    transition: transform 5s; 
-    transform: scale(1.1); 
-}
-
 a {
     color: salmon;
 }
